@@ -1,5 +1,4 @@
 # your code goes here!
-import countdown, countdown_with_sleep
 import time
 
 def countdown(number=10):
